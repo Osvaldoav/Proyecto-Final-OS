@@ -1,4 +1,4 @@
 # Proyecto-Final-OS
 
 ## Usage
-python main.py <textFile>
+python main.py RR.txt
