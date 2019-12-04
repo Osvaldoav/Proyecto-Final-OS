@@ -1,0 +1,21 @@
+RR
+QUANTUM 1000
+0 Llega 1
+1 Llega 2
+2 Llega 3
+1500 startI/O 2
+2501 Llega 4
+3501 Acaba 3
+3502 Llega 5
+3503 Llega 6
+5502 Llega 7
+5503 Acaba 5
+5504 startI/O 6
+5600 Acaba 4
+5900 endI/O 2
+5901 Acaba 1
+5902 endI/O 6
+5903 Acaba 7
+7904 Acaba 2
+7905 Acaba 6
+7906 endSimulacion

@@ -1,0 +1,21 @@
+FCFS
+QUANTUM 0
+0 Llega 1
+5 Llega 2
+10 Llega 3
+15 startI/O 1
+20 Llega 4
+25 endI/O 1
+30 startI/O 2
+35 Llega 5
+40 startI/O 1
+45 Llega 6
+50 endI/O 1
+55 endI/O 2
+60 Acaba 2
+65 Acaba 3
+70 Acaba 1
+75 Acaba 4
+80 Acaba 5
+85 Acaba 6
+86 endSimulacion
